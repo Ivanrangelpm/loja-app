@@ -7,7 +7,7 @@ export default function Home() {
       <h1>HOME</h1>
       <div>
         <h2>MEUS PRODUTOS</h2>
-        <ul>
+        <ul >
           <li><Link href="/Produtos/tenis">Tênis</Link></li>
           <li><Link href="/Produtos/calca">Calça</Link></li>
           <li><Link href="/Produtos/camisa">Camisa</Link></li>
