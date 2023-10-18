@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities; 
+
+
+ul{ @apply inline p-2 text-lg m-mxy-auto w-52 }
+li{ @apply inline p-2 text-lg w-52 }

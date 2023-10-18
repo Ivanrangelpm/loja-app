@@ -5,4 +5,4 @@ export default function ProdutoSlug({params}){
             <p>Slug: {params.id}</p>
         </div>
     )
-}
+}   
